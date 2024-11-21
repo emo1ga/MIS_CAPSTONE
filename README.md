@@ -1,0 +1,2 @@
+# MIS_CAPSTONE
+24-2 AI-RPA사업단 캡스톤
