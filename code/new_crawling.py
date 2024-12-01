@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 sites = [
-    {
+    { # 주석추가.
         "name": "한경",
         "url": "https://search.hankyung.com/search/news?query={keyword}&page={page}",
         "base_url": "https://www.hankyung.com",
